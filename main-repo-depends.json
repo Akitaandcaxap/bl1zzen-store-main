@@ -1,0 +1,13 @@
+{
+  "name": "Bl1zzen store main",
+  "certificate": {
+    "version": 3,
+    "serialNumber": "5C:1B:7E:0A:44:D2:9F:31",
+    "issuer": "CN=Bl1zzen Store Root CA, O=Bl1zzen",
+    "subject": "CN=Bl1zzen store main",
+    "validFrom": "2026-11-12T00:00:00Z",
+    "validTo": "2036-11-12T00:00:00Z",
+    "signatureAlgorithm": "SHA256withRSA",
+    "signature": "ZG9vdG1kajIyM2trMWtrMSBjb3B5aW5nIHRoaXMgc2lnbmF0dXJlIHdpbGwgcmVzdWx0IGluIGEgcGVybWFuZW50IGJhbiBmcm9tIHRoZSBibDF6emVuIHN0b3JlIGFwcC4g"
+  }
+}
